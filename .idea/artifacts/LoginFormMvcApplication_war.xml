@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="LoginFormMvcApplication.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginFormMvcApplication_war</output-path>
+    <root id="root">
+      <element id="archive" name="LoginFormMvcApplication.war" />
+    </root>
+  </artifact>
+</component>
